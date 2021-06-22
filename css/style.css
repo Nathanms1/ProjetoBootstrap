@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+.quem-somos{
+    background-color: rgb(228, 228, 228);
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: rgb(212, 212, 212);
+}
+
+.criptomoedas{
+    background-color: rgb(194, 194, 194);
+}
+
+.margin-top{
+    margin-top: 15px;
+}
+
+.bg-footer{
+    background-color:rgb(0, 0, 0);
+    color: white;
+}
